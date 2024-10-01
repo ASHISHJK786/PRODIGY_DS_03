@@ -41,7 +41,7 @@ Analyzed which features contributed the most to the model's decision-making proc
 pandas for data manipulation
 matplotlib and seaborn for data visualization
 scikit-learn for machine learning model building and evaluation
-numpy for numerical operations
+NumPy for numerical operations
 
 # Dataset
 
@@ -62,12 +62,12 @@ The decision tree classifier performed well in predicting customer purchases, wi
 
 # How to Use This Repository
 
-Clone the repository to your local machine.
-Install the required libraries by running:
+Could you clone the repository to your local machine?
+Install the required libraries by running the following:
 bash
 Copy code
 pip install -r requirements.txt
-Run the Jupyter Notebook or Python scripts to see the full analysis and model building process.
+Run the Jupyter Notebook or Python scripts to see the full analysis and model-building process.
 Future Work
 
 Implement other machine learning models like Random Forest or Logistic Regression for comparison.
@@ -76,6 +76,10 @@ Explore feature engineering techniques to improve model performance.
 
 
 # Glimps of Data Visualisation 
+
+
+
+![classification_report_heatmap](https://github.com/user-attachments/assets/be02b9c6-3e7c-4e5a-9ee9-f272321078de)
 
 
 
